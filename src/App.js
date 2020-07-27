@@ -1,6 +1,7 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import React from "react";
+// import WaterEffect from "./WaterEffect/WaterEffect";
+import logo from "./logo.svg";
+import "./App.css";
 
 function App() {
   return (
