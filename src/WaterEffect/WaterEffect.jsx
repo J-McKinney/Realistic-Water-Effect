@@ -32,7 +32,7 @@ class WaterEffect extends Component {
               <animate
                 href="#sea-filter"
                 attributeName="baseFrequency"
-                dur="30s"
+                dur="50s"
                 keyTimes="0;0.5;1"
                 values="0.02 0.06;0.04 0.08;0.02 0.06"
                 repeatCount="indefinite"
