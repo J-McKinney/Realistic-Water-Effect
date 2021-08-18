@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Realistic-Water-Effect/precache-manifest.ee32eba1ff3c2be274aa1deecc7bb517.js"
+  "/Realistic-Water-Effect/precache-manifest.d30ff9589d98095f5b2e1bb4176222b8.js"
 );
 
 self.addEventListener('message', (event) => {
